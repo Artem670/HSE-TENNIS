@@ -1,0 +1,2 @@
+{ "name": "HSE TENNIS CLUB · Пермь", "short_name": "HSE Tennis", "start_url": "./", "display": "standalone", "background_color": "#0B5D3B", "theme_color": "#0B5D3B",
+  "icons": [{ "src": "apple-touch-icon.png", "sizes": "180x180", "type": "image/png" }, { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" }] }
